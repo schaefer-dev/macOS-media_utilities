@@ -13,7 +13,7 @@ Used daily in my workflow in combination with [my fork of twitchy](https://githu
 
 **Setup:**
 - Add `source ~/path/to/livestreaming/iina.zsh` to your zsh setup. This probably works with a variety of shells (bash etc.) however due to zsh being both my personal choice and now even the default in macOS, I limited my testing to zsh.
-- Add a Profile called **ZSH\_livestream** to iTerm2.
+- Add a Profile called **ZSH\_livestream** to iTerm2. I suggest do use a different profile than your default here to be able to configure a smaller terminal window, smaller font size etc. because usually no interaction with the window will be required and it only exists for debugging reasons if there are any connection issues.
 
 **Usage:**
 - Type e.g. `stream summit1g` to open Summit1g stream.
