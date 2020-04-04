@@ -12,7 +12,7 @@ Used daily in my workflow in combination with [my fork of twitchy](https://githu
 - [iTerm2](https://www.iterm2.com) setup with existing profile called 'ZSH\_livestream'. Alternatively adjust script to use different Profile name.
 
 **Setup:**
-- Add `source ~/path/to/iina.zsh` to your zsh setup. This probably works with a variety of shells (bash etc.) however due to zsh being both my personal choice and now even the default in macOS, I limited my testing to zsh.
+- Add `source ~/path/to/livestreaming/iina.zsh` to your zsh setup. This probably works with a variety of shells (bash etc.) however due to zsh being both my personal choice and now even the default in macOS, I limited my testing to zsh.
 
 **Usage:**
 - Type e.g. `stream summit1g` to open Summit1g stream.
