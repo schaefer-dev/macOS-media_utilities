@@ -28,6 +28,8 @@ TODO
 
 # Bulk-Download of Video content which requires authentication using cookies
 
+[List of supported Sites](http://ytdl-org.github.io/youtube-dl/supportedsites.html), all sites on which youtube-dl is able to interpret video.
+
 **Dependencies:**
 - Youtube-DL
 
