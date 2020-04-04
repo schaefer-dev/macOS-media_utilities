@@ -1,12 +1,14 @@
 # Livestreaming of Twitch Content
 
-opens new Terminal window to start livestreaming of content which is served to a media-player. This allows the user to keep using the previously existing terminal window without interruptions.
+Opens new Terminal window to start livestreaming of content which is served to a media-player. This allows the user to keep using the previously existing terminal window without interruptions.
+
+Used daily in my workflow in combination with [my fork of twitchy](https://github.com/schaefer-dev/twitchy) to consume content on twitch.
 
 ### Using IINA (Recommended)
 
 **Dependencies:**
-- [IINA.app](https://iina.io)
-- [Streamlink](https://github.com/streamlink/streamlink)
+- [IINA.app](https://iina.io) Built on top of MPV with e.g. Picture-in-Picture, Touchbar and Darkmode support.
+- [Streamlink](https://github.com/streamlink/streamlink) Command-line utility to **efficiently** pipe video content into media player. Very significant battery-life improvement compared to streaming in Chrome/Safari.
 - [iTerm2](https://www.iterm2.com) setup with existing profile called 'ZSH\_livestream'. Alternatively adjust script to use different Profile name.
 
 **Setup:**
